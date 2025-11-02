@@ -1,61 +1,71 @@
 # MrRoshaningle
-# Hi, I'm Roshan Ingle 👋
-**AI / ML Engineer · Software Developer · Systems & Cloud**  
-C/C++ · Python · SQL · DSA · Cloud Computing · Advanced Java · x86-64 Assembly
+# Hi, I'm Roshan 👋
+**AI / ML Engineer • Software Developer**  
+C/C++ | Python | SQL | DSA | Cloud Computing | Advanced Java | x86-64 Assembly
 
-[![Website](https://img.shields.io/badge/portfolio-%F0%9F%8C%90-blue)](https://YOUR_WEBSITE_HERE)
-[![LinkedIn](www.linkedin.com/in/roshan-ingle-1a64b2290)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)]
-
----
-
-## About me
-I build scalable software and machine learning systems. I enjoy low-level programming (x86-64 Assembly), algorithmic problem solving, and deploying ML models in the cloud. I’m currently focusing on productionizing generative AI pipelines and performant C/C++ systems.
-
-- 🔭 I’m working on: production-ready ML inference pipelines and a mock-test app in Android (Java).
-- 🌱 I’m learning: advanced distributed systems patterns, vector search & generative model ops.
-- 👯 I’m open to: collaborations on AI/ML, systems programming, and cloud-native projects.
-- 💬 Ask me about: model deployment, performance tuning, assembly, or algorithms.
-- 📫 How to reach me: your-email@example.com
+[![Website](https://img.shields.io/badge/portfolio-website-blue?style=for-the-badge&logo=google-chrome)]
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-orange?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_PROFILE)
+[![Email](https://img.shields.io/badge/Email-roshan@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshan@example.com)
 
 ---
 
-## Skills & Technologies
-**Languages:** `C` · `C++` · `Python` · `Java` · `SQL` · `x86-64 Assembly`  
-**ML & AI:** `scikit-learn` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas`  
-**Algorithms & DS:** `DSA` · `Complexity Analysis` · `Competitive Programming`  
-**Cloud & DevOps:** `AWS / OCI / GCP` · `Docker` · `Kubernetes` · `CI/CD`  
-**Other:** `Linux` · `Networking` · `Performance tuning` · `Android (Java)`
+## 🔭 About Me
+I'm an **AI/ML Engineer** who builds data-driven models and production-ready systems. I love going from research + model prototyping to deploying scalable solutions on the cloud. I also enjoy low-level programming (x86-64) and algorithm design.
+
+- 🔬 Currently: Building ML pipelines and deploying transformers for real-world tasks  
+- 🌱 Learning: Model optimization, vector search, and distributed training  
+- ⚡ Fun: Competitive programming, performance tuning, reverse engineering
 
 ---
 
-## Featured Projects
-### 🔸 ProjectName-ML
-**Short:** End-to-end ML pipeline (training -> evaluation -> serving).  
-**Tech:** Python · PyTorch · Docker · AWS / OCI  
-**Repo:** https://github.com/YOUR_GITHUB_USERNAME/ProjectName-ML
-
-### 🔸 ProjectName-System
-**Short:** High-performance C++ service with custom allocators and benchmarking.  
-**Tech:** C++ · gtest · perf · CI  
-**Repo:** https://github.com/YOUR_GITHUB_USERNAME/ProjectName-System
-
-### 🔸 Mock-Test-App (Android)
-**Short:** Mock test Android app for practice & analytics.  
-**Tech:** Java · Android Studio · SQLite  
-**Repo:** https://github.com/YOUR_GITHUB_USERNAME/Mock-Test-App
+## 🛠️ Skills
+**Languages:** `C/C++` · `Python` · `Java` · `SQL` · `Assembly (x86-64)`  
+**ML / Data:** `scikit-learn` · `PyTorch` · `TensorFlow` · `pandas` · `NumPy`  
+**Cloud / Infra:** `AWS / GCP / OCI` · `Docker` · `Kubernetes` · `CI/CD`  
+**Other:** `DSA` · `System Design` · `Model Deployment` · `Vector Search`
 
 ---
 
-## GitHub Stats
-![Roshan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical](https://github.com/))
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+## ⭐ Featured Projects
+### [Project-One](https://github.com/YOUR_USERNAME/project-one)  
+**ML pipeline** for classification + CI/CD deployment. `Python` · `PyTorch` · `Docker` · `Kubernetes`  
+*Short: built data ingestion, training, and inference APIs with autoscaling.*
+
+### [Project-Two](https://github.com/YOUR_USERNAME/project-two)  
+**High-performance C++ library** for signal processing. `C++` · `CMake` · `Unit tests`  
+*Short: low-latency, cache-optimized processing for embedded systems.*
+
+### [Assembly-Lab](https://github.com/YOUR_USERNAME/assembly-lab)  
+**x86-64 assembly experiments** and tutorials. Good for OS-level learning and performance tuning.
 
 ---
 
-## Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin-username)  
-📧 roshan766689@gmail.com
+## 📈 GitHub Stats
+<!-- Put your GitHub username in the URLs below -->
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_USERNAME&show_icons=true&hide_border=true&count_private=true&title_color=00bcd4&icon_color=00bcd4&text_color=666666&bg_color=ffffff)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_USERNAME&layout=compact&hide_border=true&langs_count=8&title_color=00bcd4&text_color=666666)
+
+---
+
+## 📫 Get in touch
+- Email: roshan@example.com  
+- LinkedIn: [YOUR_LINKEDIN](https://www.linkedin.com/in/YOUR_LINKEDIN)  
+- Kaggle: [YOUR_KAGGLE](https://www.kaggle.com/YOUR_PROFILE)  
+- Portfolio: https://your-portfolio.example.com
+
+---
+
+## 🤝 Open to
+- Collaboration on ML projects, microservices, and high-performance computing  
+- Internship / Job opportunities in ML engineering or systems engineering
+
+---
+
+> “Write code that humans can read; optimize only when needed.” — Roshan
+
+
 
 ---
 
