@@ -5,7 +5,6 @@ C/C++ · Python · SQL · DSA · Cloud Computing · Advanced Java · x86-64 Asse
 
 [![Website](https://img.shields.io/badge/portfolio-%F0%9F%8C%90-blue)](https://YOUR_WEBSITE_HERE)
 [![LinkedIn](www.linkedin.com/in/roshan-ingle-1a64b2290)
-[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)]
 
 ---
@@ -49,14 +48,14 @@ I build scalable software and machine learning systems. I enjoy low-level progra
 ---
 
 ## GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Roshan's GitHub stats]([https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical](https://github.com/))
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
 
 ---
 
 ## Connect
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin-username)  
-📧 your-email@example.com
+📧 roshan766689@gmail.com
 
 ---
 
