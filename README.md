@@ -1,42 +1,63 @@
 # MrRoshaningle
-# 👋 Hi, I'm Roshan Ingle
+# Hi, I'm Roshan Ingle 👋
+**AI / ML Engineer · Software Developer · Systems & Cloud**  
+C/C++ · Python · SQL · DSA · Cloud Computing · Advanced Java · x86-64 Assembly
 
-💻 **Android Developer | Python Programmer | AI/ML Enthusiast**  
-🚀 Passionate about building smart applications and learning cutting-edge tech.
-
----
-
-### 🧠 About Me
-- 🔭 I’m currently working on Android projects using **Java** and **Python-based AI/ML** tools.
-- 🌱 I’m learning **Data Science** and **Cloud AI (OCI, Azure, AWS)**.
-- 💬 Ask me about **Android Studio**, **Python**, or **Machine Learning**.
-- ⚡ Fun fact: I love solving coding challenges and improving UI/UX design.
+[![Website](https://img.shields.io/badge/portfolio-%F0%9F%8C%90-blue)](https://YOUR_WEBSITE_HERE)
+[![LinkedIn](www.linkedin.com/in/roshan-ingle-1a64b2290)
+[![Gmail](https://img.shields.io/badge/Gmail-%23D14836?style=flat&logo=gmail&logoColor=white)](mailto:your-email@example.com)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)]
 
 ---
 
-### 🛠️ Tech Stack
-![Java](https://img.shields.io/badge/Java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
-![Python](https://img.shields.io/badge/Python-%233776AB.svg?style=for-the-badge&logo=python&logoColor=white)
-![Android Studio](https://img.shields.io/badge/Android%20Studio-3DDC84.svg?style=for-the-badge&logo=android-studio&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033.svg?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717.svg?style=for-the-badge&logo=github&logoColor=white)
+## About me
+I build scalable software and machine learning systems. I enjoy low-level programming (x86-64 Assembly), algorithmic problem solving, and deploying ML models in the cloud. I’m currently focusing on productionizing generative AI pipelines and performant C/C++ systems.
+
+- 🔭 I’m working on: production-ready ML inference pipelines and a mock-test app in Android (Java).
+- 🌱 I’m learning: advanced distributed systems patterns, vector search & generative model ops.
+- 👯 I’m open to: collaborations on AI/ML, systems programming, and cloud-native projects.
+- 💬 Ask me about: model deployment, performance tuning, assembly, or algorithms.
+- 📫 How to reach me: your-email@example.com
 
 ---
 
-### 📊 GitHub Stats
-![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=roshaningle&show_icons=true&theme=radical)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=roshaningle&layout=compact&theme=radical)
+## Skills & Technologies
+**Languages:** `C` · `C++` · `Python` · `Java` · `SQL` · `x86-64 Assembly`  
+**ML & AI:** `scikit-learn` · `PyTorch` · `TensorFlow` · `NumPy` · `Pandas`  
+**Algorithms & DS:** `DSA` · `Complexity Analysis` · `Competitive Programming`  
+**Cloud & DevOps:** `AWS / OCI / GCP` · `Docker` · `Kubernetes` · `CI/CD`  
+**Other:** `Linux` · `Networking` · `Performance tuning` · `Android (Java)`
 
 ---
 
-### 🏆 Achievements
-- 🥇 Completed multiple Android development projects.
-- 🤖 Built Python mini-projects for automation and ML.
-- 🧑‍🏫 Active learner in AI/ML, Cloud, and Data Science platforms.
+## Featured Projects
+### 🔸 ProjectName-ML
+**Short:** End-to-end ML pipeline (training -> evaluation -> serving).  
+**Tech:** Python · PyTorch · Docker · AWS / OCI  
+**Repo:** https://github.com/YOUR_GITHUB_USERNAME/ProjectName-ML
+
+### 🔸 ProjectName-System
+**Short:** High-performance C++ service with custom allocators and benchmarking.  
+**Tech:** C++ · gtest · perf · CI  
+**Repo:** https://github.com/YOUR_GITHUB_USERNAME/ProjectName-System
+
+### 🔸 Mock-Test-App (Android)
+**Short:** Mock test Android app for practice & analytics.  
+**Tech:** Java · Android Studio · SQLite  
+**Repo:** https://github.com/YOUR_GITHUB_USERNAME/Mock-Test-App
 
 ---
 
-### 🌐 Connect with Me
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin)](https://linkedin.com/in/your-link)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:yourmail@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://your-portfolio-link)
+## GitHub Stats
+![Roshan's GitHub stats](https://github-readme-stats.vercel.app/api?username=YOUR_GITHUB_USERNAME&show_icons=true&theme=radical)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=YOUR_GITHUB_USERNAME&layout=compact&theme=radical)
+
+---
+
+## Connect
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/linkedin-username)  
+📧 your-email@example.com
+
+---
+
+> _“I like to solve difficult problems and make systems fast, reliable, and easy to use.”_  
