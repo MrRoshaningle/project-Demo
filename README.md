@@ -4,7 +4,7 @@
 C/C++ | Python | SQL | DSA | Cloud Computing | Advanced Java | x86-64 Assembly
 
 [![Website](https://img.shields.io/badge/portfolio-website-blue?style=for-the-badge&logo=google-chrome)]
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN)
+[![LinkedIn](www.linkedin.com/in/roshan-ingle-1a64b2290)](https://www.linkedin.com/in/YOUR_LINKEDIN)
 [![Kaggle](https://img.shields.io/badge/Kaggle-Notebook-orange?style=for-the-badge&logo=kaggle&logoColor=white)](https://www.kaggle.com/YOUR_PROFILE)
 [![Email](https://img.shields.io/badge/Email-roshan@example.com-red?style=for-the-badge&logo=gmail&logoColor=white)](mailto:roshan@example.com)
 
